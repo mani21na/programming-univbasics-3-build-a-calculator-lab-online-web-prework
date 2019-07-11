@@ -15,9 +15,9 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-  puts = (num1 / num2).foolr
+  puts = (num1 / num2).foolr 
 end
 
 def square_root(num)
-  num.Math.sqrt
+  Math.sqrt(num)
 end
